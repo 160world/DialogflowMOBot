@@ -1,0 +1,36 @@
+{
+  "id": "1e8ef8cc-3ad8-4216-a2ab-ddb94b4a074a",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Ups, no he entendido, a que te refieres?",
+            "Podrias repetirlo, por favor?",
+            "Disculpa?",
+            "Decias?",
+            "Como?",
+            "No te he entendido, por favor, dime en que puedo ayudarte."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528798902,
+  "fallbackIntent": true,
+  "events": []
+}

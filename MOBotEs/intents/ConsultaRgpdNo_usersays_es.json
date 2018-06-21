@@ -1,0 +1,38 @@
+[
+  {
+    "id": "188d773a-4ca6-4890-a70e-9d441704aee2",
+    "data": [
+      {
+        "text": "pues no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528800952
+  },
+  {
+    "id": "6489f956-a8b3-47e4-a1bd-a64ea0e982b2",
+    "data": [
+      {
+        "text": "no *",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1528800952
+  },
+  {
+    "id": "1034e6c1-4d06-429f-a639-cb3f3296b7b4",
+    "data": [
+      {
+        "text": "de ninguna manera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528800817
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "45c4a7f3-1ca5-4187-9718-2357879b2e0f",
+  "name": "ConsultaRgpdNo",
+  "auto": true,
+  "contexts": [
+    "ConsultaRgpd"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.rgpd",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb82566e-fb71-4859-ae4d-999bbe87acf3",
+          "required": false,
+          "name": "consulta_rgpd",
+          "value": "false",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528800952,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ce25fb77-95c6-4389-abb7-3a40604ba3db",
+  "name": "ConsultaRgpdDefault",
+  "auto": true,
+  "contexts": [
+    "ConsultaRgpd"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [
+        {
+          "name": "ConsultaRgpd",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "No te he entendido. Aceptas nuestra politica de privacidad?",
+            "No te he comprendido. Para poder conversar contigo es necesario que aceptes nuestra politica de privacidad. Aceptas?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I don\u0027t understand you. Do you accept our privacy politics?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529403718,
+  "fallbackIntent": false,
+  "events": []
+}

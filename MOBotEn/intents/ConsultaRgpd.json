@@ -1,0 +1,38 @@
+{
+  "id": "1afcefef-b566-45e8-bd8d-2f4329a45024",
+  "name": "ConsultaRgpd",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ConsultaRgpd",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Acording to the new UE general data protection rules, RGPD, we need your consent to comunicate with you. In this link you have our Privacy Politics https://:boomerang.160world.com. Do you accept our privacy politics?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528801883,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "rgpd"
+    }
+  ]
+}

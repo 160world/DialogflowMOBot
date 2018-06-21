@@ -1,0 +1,38 @@
+{
+  "id": "1c820f25-c52b-47a2-8348-b6276dbf89b1",
+  "name": "ConsultaRgpd",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ConsultaRgpd",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Segun el nuevo reglamento general de proteccion de datos de la UE, RGPD, necesitamos tu consentimiento para seguir conversando contigo. En este enlace tienes nuestra Politica de Privacidad https://boomerang.160world.com. Aceptas nuestra politica de privacidad?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528802167,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "rgpd"
+    }
+  ]
+}

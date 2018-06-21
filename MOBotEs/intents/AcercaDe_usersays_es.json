@@ -1,0 +1,38 @@
+[
+  {
+    "id": "985bddff-3d1c-4ce6-90c3-bdc24fd2a2aa",
+    "data": [
+      {
+        "text": "quien sois vosotros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528801249
+  },
+  {
+    "id": "7f04ab6c-c641-4802-8dd4-2b280612a10a",
+    "data": [
+      {
+        "text": "quien eres *",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1528801249
+  },
+  {
+    "id": "023675e7-5fff-4f02-b899-8faf66a37102",
+    "data": [
+      {
+        "text": "como te llamas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528801249
+  }
+]

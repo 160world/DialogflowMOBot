@@ -1,0 +1,50 @@
+[
+  {
+    "id": "506b4fdd-6fe0-455a-b569-ac9dedb85481",
+    "data": [
+      {
+        "text": "accept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528802150
+  },
+  {
+    "id": "b01c03eb-ca97-44c9-bccd-a37cf315db67",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528802150
+  },
+  {
+    "id": "86d05d09-9a4e-448e-928c-a98f1689bb4e",
+    "data": [
+      {
+        "text": "ok *",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1528802150
+  },
+  {
+    "id": "823c22c8-71c4-4b24-888e-f05249d42f8f",
+    "data": [
+      {
+        "text": "yes *",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1528802150
+  }
+]

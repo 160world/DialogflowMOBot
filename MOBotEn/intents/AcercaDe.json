@@ -1,0 +1,28 @@
+{
+  "id": "feaf652d-cda6-4661-8e33-32b6dd07a9ce",
+  "name": "AcercaDe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m a demo ChatBot developed by 160World."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528801613,
+  "fallbackIntent": false,
+  "events": []
+}

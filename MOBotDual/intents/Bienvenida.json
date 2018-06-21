@@ -1,0 +1,38 @@
+{
+  "id": "c90cf598-167a-4d7a-91c2-a0338e169d66",
+  "name": "Bienvenida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Bienvenido a 160World, soy tu asistente. Por donde empezamos?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to 160World, I\u0027m your assistant. What would you do?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529403519,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
